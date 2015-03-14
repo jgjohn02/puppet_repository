@@ -4,6 +4,7 @@ forge "http://forge.puppetlabs.com"
 mod "puppetlabs/apache"
 mod "puppetlabs/ntp"
 mod "ceritsc/chocolatey_sw"
+mod "opentable/iis"
 
 
 # Modules from Github using various references
