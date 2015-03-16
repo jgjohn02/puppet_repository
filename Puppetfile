@@ -2,6 +2,11 @@ forge "http://forge.puppetlabs.com"
 
 # Modules from the Puppet Forge
 mod "puppetlabs/apache"
+mod "puppetlabs/stdlib"
+mod "puppetlabs/concat"
+mod "puppetlabs/inifile"
+mod "puppetlabs/acl"
+mod "puppetlabs/vcsrepo"
 mod "puppetlabs/ntp"
 mod "ceritsc/chocolatey_sw"
 mod "opentable/iis"
