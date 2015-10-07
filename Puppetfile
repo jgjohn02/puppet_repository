@@ -2,6 +2,7 @@ forge "http://forge.puppetlabs.com"
 
 # Modules from the Puppet Forge
 mod "puppetlabs/dsc"
+mod "puppetlabs/powershell"
 mod "puppetlabs/dism"
 mod "puppetlabs/registry"
 mod "puppetlabs/stdlib"
