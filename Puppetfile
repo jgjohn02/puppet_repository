@@ -10,7 +10,4 @@ mod "puppetlabs/inifile"
 mod "puppetlabs/acl"
 mod "chocolatey/chocolatey"
 
-
 #mystuff
-mod 'puppetdsc',
-:git    => 'https://github.com/jgjohn02/puppetdsce',
