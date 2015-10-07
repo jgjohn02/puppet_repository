@@ -12,8 +12,8 @@ mod "chocolatey/chocolatey"
 
 
 #mystuff
-mod "puppetdsc",
- :git => 'https://github.com/jgjohn02/puppetdsc',
+ mod 'puppetdsc',
+  :git    => 'https://github.com/jgjohn02/puppetdsce',
 
 
 # Modules from Github using various references
