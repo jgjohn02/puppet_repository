@@ -24,4 +24,3 @@ mod "chocolatey/chocolatey"
 #mod 'profiles',
 #  :git => 'git://github.com/glarizza/puppet-profiles',
 #  :ref => '3611ae4253ff01762f9bda1d93620edf8f9a3b22'
-
