@@ -11,6 +11,9 @@ mod "puppetlabs/acl"
 mod "chocolatey/chocolatey"
 
 
+#mystuff
+ :git => 'https://github.com/jgjohn02/puppetdsc',
+
 
 # Modules from Github using various references
 #mod 'notifyme',
