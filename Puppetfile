@@ -11,3 +11,5 @@ mod "puppetlabs/acl"
 mod "chocolatey/chocolatey"
 
 #mystuff
+mod 'puppetdcs',
+  :git => 'https://github.com/jgjohn02/puppetdsc'
