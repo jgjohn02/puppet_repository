@@ -12,5 +12,5 @@ mod "puppetlabs/acl"
 mod "chocolatey/chocolatey"
 
 #mystuff
-mod 'puppetdcs',
+mod 'jasontest',
   :git => 'https://github.com/jgjohn02/jasontest.git'
