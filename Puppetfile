@@ -13,4 +13,4 @@ mod "chocolatey/chocolatey"
 
 #mystuff
 mod 'puppetdcs',
-  :git => 'https://github.com/jgjohn02/puppetdsc'
+  :git => 'https://github.com/jgjohn02/jasontest.git'
